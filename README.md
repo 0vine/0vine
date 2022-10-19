@@ -3,9 +3,8 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Moreira4129@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-moreira-6879b41b0/)
 
    
-![0Vine's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Vine&show_icons=true&theme=tokyonight) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/0vine)
+![0Vine's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Vine&show_icons=true&theme=tokyonight) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0vine&layout=compact)](https://github.com/0vine/github-readme-stats)
 
-  
   ## Tecnologias que uso 
   <div style="display: inline_block"><br/>
    <img align+"center" alt=Kotlin src="https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
