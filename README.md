@@ -3,7 +3,7 @@
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](Moreira4129@gmail.com)[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-moreira-6879b41b0/)
 
    
-![0Vine's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Vine&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Vine&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![0Vine's GitHub stats](https://github-readme-stats.vercel.app/api?username=0Vine&show_icons=true&theme=tokyonight) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/0vine)
 
   
   ## Tecnologias que uso 
